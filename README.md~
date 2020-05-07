@@ -1,5 +1,0 @@
-# Instructions to compile
-
-1. ```clojure -e "(compile 'app.core)"```
-
-2. ```clojure -A:uberjar --main-class app.core```
